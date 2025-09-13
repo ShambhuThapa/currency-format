@@ -24,7 +24,7 @@ yarn add currency-format-js
 
 Usage
 ```
-import { formatNumber } from "currency-format-js";
+import { formatCurrency } from "currency-format-js";
 ```
 
 ## Usage Examples
