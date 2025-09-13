@@ -3,3 +3,6 @@
 
 .env
 .DS_Store
+
+# A temporary test file you use locally.
+src/test.js

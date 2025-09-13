@@ -6,3 +6,6 @@
 
 tsconfig.json
 tsup.config.ts
+
+# A temporary test file you use locally.
+# src/test.js
