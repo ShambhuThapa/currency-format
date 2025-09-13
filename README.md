@@ -1,4 +1,4 @@
-# 📊 currency-format
+# 📊 currency-format-js
 
 A lightweight and flexible number formatting utility for JavaScript and TypeScript.
 
@@ -16,14 +16,14 @@ Supports:
 ## 📦 Installation
 
 ```bash
-npm install currency-format
+npm install currency-format-js
 # or
-yarn add currency-format
+yarn add currency-format-js
 ```
 
 Usage
 ```
-import { formatNumber } from "currency-format";
+import { formatNumber } from "currency-format-js";
 ```
 
 ## 👨‍💻 Author

@@ -1,5 +1,5 @@
 {
-  "name": "currency-format",
+  "name": "currency-format-js",
   "description": "A simple currency formatter for JavaScript and TypeScript.",
   "version": "1.0.0",
   "main": "./dist/index.js",
