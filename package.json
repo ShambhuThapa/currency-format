@@ -1,0 +1,27 @@
+{
+  "name": "currency-format",
+  "description": "A simple currency formatter for JavaScript and TypeScript.",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://google.com",
+  "scripts": {
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/ShambhuThapa/currency-format.git"
+  },
+  "keywords": [
+    "currency",
+    "formatter"
+  ],
+  "author": "Shambhu Thapa",
+  "license": "ISC",
+  "devDependencies": {
+    "@swc/core": "^1.13.5",
+    "tsup": "^8.5.0",
+    "typescript": "^5.9.2"
+  }
+}
